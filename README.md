@@ -40,4 +40,11 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 			* **Actividad 7. Introducción a series de tiempo. Series estacionarias: [final/Estadística avanzada para la ciencia de datos/Actividad 7. Introducción a series de tiempo. Series estacionarias.pdf](/final/Estadística%20avanzada%20para%20la%20ciencia%20de%20datos/Actividad%207.%20Introducción%20a%20series%20de%20tiempo.%20Series%20estacionarias.pdf)**
 			* **Actividad 8. Series de tiempo no estacionarias. Tendencia: [final/Estadística avanzada para la ciencia de datos/Actividad 8. Series de tiempo no estacionarias. Tendencia.pdf](/final/Estadística%20avanzada%20para%20la%20ciencia%20de%20datos/Actividad%208.%20Series%20de%20tiempo%20no%20estacionarias.%20Tendencia.pdf)**
 
+* *Módulo: [Cloud Computing](/final/Cloud%20Computing/)*
+	* **Actividades de Big Data:**
+		* *Carpeta [Cloud Computing](/final/Cloud%20Computing/)*
+			* **Archivo README: [final/Cloud Computing/README.md](/final/Cloud%20Computing/README.md)**
+			* **Actividad Cloud Migration : [final/Cloud Computing/CloudMigration_Equipo2.pdf](/final/Cloud%20Computing/CloudMigration_Equipo2.pdf)**
+			* **Actividad Diseño de Cloud: [final/Cloud Computing/Diseño de Cloud.pdf](/final/Cloud%20Computing/DisenoCloud_Equipo2.pdf)**
+
 ¡Gracias!
