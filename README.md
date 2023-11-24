@@ -26,10 +26,10 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 			* **Momento de Retroalimentación Individual. Implementación de un modelo de Deep Learning: [final/Deep Learning/Privacidad y Seguridad de los Datos/Momento de Retroalimentación Individual. Implementación de un modelo de Deep Learning.pdf](/final/Deep%20Learning/Momento%20de%20Retroalimentación%20Individual.%20Implementación%20de%20un%20modelo%20de%20Deep%20Learning.pdf)**
 
 * *Módulo: [Natural Language Processing](/final/NLP/)*
-	* **Indefinido:**
+	* **Evidencia NLP:**
 		* *Carpeta [NLP](/final/NLP/)*
 			* **Archivo README: [final/NLP/README.md](/final/NLP/README.md)**
-			* 
+			* **Documento PDF de Aplicación Web Speech-to-Summary con uso de API: [final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf](/final/NLP/NLP_A00831719_Alberto_Horacio_Orozco_Ramos.pdf)**
 
 * *Módulo: [Estadística Avanzada](/final/Estadística%20avanzada%20para%20la%20ciencia%20de%20datos/)*
 	* **Actividades de Estadística Avanzada:**
