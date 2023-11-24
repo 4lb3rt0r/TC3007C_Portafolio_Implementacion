@@ -45,6 +45,5 @@ A continuación se muestra una lista de los archivos en sus versiones finales qu
 		* *Carpeta [Cloud Computing](/final/Cloud%20Computing/)*
 			* **Archivo README: [final/Cloud Computing/README.md](/final/Cloud%20Computing/README.md)**
 			* **Actividad Cloud Migration : [final/Cloud Computing/CloudMigration_Equipo2.pdf](/final/Cloud%20Computing/CloudMigration_Equipo2.pdf)**
-			* **Actividad Diseño de Cloud: [final/Cloud Computing/Diseño de Cloud.pdf](/final/Cloud%20Computing/DisenoCloud_Equipo2.pdf)**
 
 ¡Gracias!
