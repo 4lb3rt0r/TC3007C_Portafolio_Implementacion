@@ -20,7 +20,7 @@
 A continuación se muestra una lista de los archivos en sus versiones finales que se deben revisar para calificar cada subcompetencia: 
 
 * *Módulo: [Deep Learning](/final/Deep%20Learning/)*
-	* **Momento de Retroalimentación: Reto Privacidad y Seguridad de los Datos:**
+	* **Momento de Retroalimentación: Implementación de un modelo de Deep Learning:**
 		* *Carpeta [Deep Learning](/final/Deep%20Learning/)*
 			* **Archivo README: [final/Deep Learning/README.md](/final/Deep%20Learning/README.md)**
 			* **Momento de Retroalimentación Individual. Implementación de un modelo de Deep Learning: [final/Deep Learning/Privacidad y Seguridad de los Datos/Momento de Retroalimentación Individual. Implementación de un modelo de Deep Learning.pdf](/final/Deep%20Learning/Momento%20de%20Retroalimentación%20Individual.%20Implementación%20de%20un%20modelo%20de%20Deep%20Learning.pdf)**
